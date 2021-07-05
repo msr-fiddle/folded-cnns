@@ -1,0 +1,43 @@
+{
+  "out-h": 22,
+  "out-w": 30,
+  "model-architecture": {
+    "template": "1_3s_1_convnet",
+    "params": {
+      "n-conv-units": 2,
+      "pool1_stride": 1,
+      "conv1_n_feature_maps": 32,
+      "convi_n_feature_maps": 32,
+      "convn_n_feature_maps": 8
+    }
+  },
+  "ClassNames": [
+    "0",
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "2",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "other"
+    ]
+}

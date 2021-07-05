@@ -1,0 +1,78 @@
+{
+  "lol/goldnumber-fraction": {
+    "og_ops": 16784480,
+    "fold2_ops": 34743232,
+    "fold3_ops": 53668372,
+    "fold4_ops": 74843392
+  },
+  "apex/squad_count_v2": {
+    "og_ops": 7176032,
+    "fold2_ops": 14838682,
+    "fold3_ops": 22905844,
+    "fold4_ops": 31916608
+  },
+  "sot/coin_count-digits_3_4-v2": {
+    "og_ops": 10132064,
+    "fold2_ops": 20960424,
+    "fold3_ops": 32365792,
+    "fold4_ops": 45110464
+  },
+  "sot/timer3": {
+    "og_ops": 14562240,
+    "fold2_ops": 29692248,
+    "fold3_ops": 45389136,
+    "fold4_ops": 62661504
+  },
+  "noscope_coral": {
+    "og_ops": 16400512,
+    "fold2_ops": 32918948,
+    "fold3_ops": 51471402,
+    "fold4_ops": 73924096
+  },
+  "noscope_night": {
+    "og_ops": 16400512,
+    "fold2_ops": 32918948,
+    "fold3_ops": 51471402,
+    "fold4_ops": 73924096
+  },
+  "noscope_taipei": {
+    "og_ops": 196160128,
+    "fold2_ops": 394762860,
+    "fold3_ops": 597713160,
+    "fold4_ops": 817921024
+  },
+  "noscope_roundabout": {
+    "og_ops": 120589952,
+    "fold2_ops": 241804260,
+    "fold3_ops": 365155560,
+    "fold4_ops": 498680320
+  },
+  "efficientnet-game_lol/goldnumber-fraction": {
+    "og_ops": 16778672,
+    "fold2_ops": 10504264
+  },
+  "efficientnet-game_apex/squad_count_v2": {
+    "og_ops": 7171808,
+    "fold2_ops": 3787864
+  },
+  "efficientnet-game_sot/coin_count-digits_3_4-v2": {
+    "og_ops": 10128224,
+    "fold2_ops": 5198192
+  },
+  "efficientnet-game_sot/timer3": {
+    "og_ops": 14558784,
+    "fold2_ops": 8979560
+  },
+  "lol/goldnumber-int": {
+    "og_ops": 16890080,
+    "fold2_ops": 35033632,
+    "fold3_ops": 54183172,
+    "fold4_ops": 75688192
+  },
+  "lol/timer-minutes": {
+    "og_ops": 7918448,
+    "fold2_ops": 16389814,
+    "fold3_ops": 25316028,
+    "fold4_ops": 35298400
+  }
+}

@@ -1,0 +1,7 @@
+*.swp
+*__pycache__
+.color_coded
+.ycm_p
+.ycm_extra_conf.py
+*.pyc
+*.egg-info

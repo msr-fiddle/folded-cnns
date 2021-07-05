@@ -1,0 +1,12 @@
+FROM nvcr.io/nvidia/pytorch:19.11-py3
+
+# Install thop operation counter
+RUN pip install thop
+
+# Install torch2trt
+RUN git clone https://github.com/NVIDIA-AI-IOT/torch2trt.git \
+  && cd torch2trt \
+  && git checkout 53ce0569132b277ccebaab371a007154caad6109 \
+  && python setup.py install
+
+# vim: set filetype=dockerfile:
